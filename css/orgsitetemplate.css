@@ -1,7 +1,19 @@
-.headertext{
-  font-weight: bold;
+p{
+  margin-top: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
-p{
-  font-size: 16px;
+h3{
+  margin-top: 15px;
+  padding-left: 50px;
+}
+
+img{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+button{
+  align-items: center;
 }
